@@ -26,30 +26,3 @@
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
----
-
-## 📁 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|------------|--------------|
-| 🧪 CI Actions | Pipeline básico con GitHub Actions | YAML, GitHub |
-| 🗄️ SQL Practice | Consultas avanzadas SQL | MySQL |
-| 🌐 Web Portfolio | Página personal | HTML, CSS, JS |
-
----
-
-## 🧩 Código de ejemplo
-
-```javascript
-// Ejemplo de función en JavaScript
-function saludar(nombre) {
-    console.log(`Hola ${nombre}, bienvenido a mi perfil de GitHub 🚀`);
-}
-
-saludar("Adrian");
