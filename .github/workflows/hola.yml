@@ -1,0 +1,11 @@
+name: Hola Actions arp
+
+on:
+  workflow_dispatch:
+
+jobs:
+  hola:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Saluda
+        run: echo "Hola, GitHub Actions! Soc Adrian"
